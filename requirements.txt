@@ -1,5 +1,5 @@
 rembg
 streamlit
-numpy==1.26.4
+numpy
 pillow
-tensorflow==2.15.0
+tensorflow<=2.15.0
