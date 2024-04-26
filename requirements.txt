@@ -1,5 +1,5 @@
 rembg
 streamlit
 numpy
-PIL
+pillow
 tensorflow
