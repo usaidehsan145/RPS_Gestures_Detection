@@ -1,0 +1,5 @@
+rembg
+streamlit
+numpy
+PIL
+tensorflow
